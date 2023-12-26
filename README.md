@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/AslanbekHasanov/AslanbekHasanov/blob/main/name.svg" />
+  <img src="https://github.com/bahromnematov/bahromnematov/blob/main/name.svg" />
 </h1>
 
 ### Hi there, I'm Bahrom 👋
