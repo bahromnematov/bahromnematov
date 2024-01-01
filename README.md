@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/bahromnematov/bahromnematov/blob/main/name.svg" />
+<!--   <img src="https://github.com/bahromnematov/bahromnematov/blob/main/name.svg" /> -->
 </h1>
 
 <h3 align="left">Languages and Tools:</h3>
