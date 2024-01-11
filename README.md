@@ -13,5 +13,5 @@
 
 
 
-## 🛠 Skills Flutter, Kotlin, Dart, Python , JAVA, Firebase ,MySql
+## 🛠 Skills Flutter,Android, Kotlin, Dart, Python , JAVA, Firebase ,MySql,
 
